@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290651504532",
+    "project_id": "mahincha-648e0",
+    "storage_bucket": "mahincha-648e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290651504532:android:56c33b196f5882a566d981",
+        "android_client_info": {
+          "package_name": "com.mahincha.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290651504532-15oj1pbpsppqb2dtn0iociq67gpk4jni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahincha.tech",
+            "certificate_hash": "c3945e143dfad52583c0acd1995bebf0306cbfe1"
+          }
+        },
+        {
+          "client_id": "290651504532-dukun9uqmjth27cnlubb0o05an4rqf3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAARnp-4TUrDrVrUmutGvywLpW9UPFIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290651504532-7otahae72thm3efacvpflsak0qunr67d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
